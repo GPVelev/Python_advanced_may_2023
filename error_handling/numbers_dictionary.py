@@ -33,5 +33,3 @@ while line != "End":
     line = input()
 
 print(numbers_dictionary)
-
-
