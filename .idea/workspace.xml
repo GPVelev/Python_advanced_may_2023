@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13e362cb-01fb-4b65-9cc4-8bd974329d28" name="Changes" comment="Homework from Error Handling excersise">
-      <change afterPath="$PROJECT_DIR$/file_handling/directory_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling/even_lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling/file_manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling/line_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/christmas_elves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/flower_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation/naughty_or_nice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_handling/email_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/error_handling/email_validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_handling/numbers_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/error_handling/numbers_dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,28 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Gosho/Documents/GitHub/Security&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.directory_traversal">
+  <component name="RunManager" selected="Python.christmas_elves">
+    <configuration name="christmas_elves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_advanced_may_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/christmas_elves.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,34 +163,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_advanced_may_2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling/numbers_dictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.christmas_elves" />
         <item itemvalue="Python.directory_traversal" />
         <item itemvalue="Python.line_numbers" />
         <item itemvalue="Python.even_lines" />
         <item itemvalue="Python.email_validator" />
-        <item itemvalue="Python.numbers_dictionary" />
       </list>
     </recent_temporary>
   </component>
