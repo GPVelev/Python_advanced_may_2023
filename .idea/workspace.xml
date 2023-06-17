@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13e362cb-01fb-4b65-9cc4-8bd974329d28" name="Changes" comment="Homework from Error Handling excersise">
-      <change afterPath="$PROJECT_DIR$/exam_preparation/collecting_eggs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/exit_founder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_exam/enrollment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_exam/mouse2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_exam/mouse_in_the_kitchen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_exam/temple_of_doom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +41,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Gosho/Documents/GitHub/Security&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.shopping_cart">
-    <configuration name="collecting_eggs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mouse_in_the_kitchen">
+    <configuration name="blind_mans_buff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/collecting_eggs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/blind_mans_buff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exit_founder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="enrollment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/exit_founder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/enrollment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie_organizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mouse2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/movie_organizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/mouse2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shopping_cart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mouse_in_the_kitchen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/shopping_cart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/mouse_in_the_kitchen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="the_squirrel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temple_of_doom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_advanced_may_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation/the_squirrel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/temple_of_doom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shopping_cart" />
-        <item itemvalue="Python.exit_founder" />
-        <item itemvalue="Python.collecting_eggs" />
-        <item itemvalue="Python.movie_organizer" />
-        <item itemvalue="Python.the_squirrel (1)" />
+        <item itemvalue="Python.mouse_in_the_kitchen" />
+        <item itemvalue="Python.mouse2" />
+        <item itemvalue="Python.blind_mans_buff" />
+        <item itemvalue="Python.enrollment" />
+        <item itemvalue="Python.temple_of_doom" />
       </list>
     </recent_temporary>
   </component>
@@ -317,6 +319,26 @@
           <url>file://$PROJECT_DIR$/exam_preparation/shopping_cart.py</url>
           <line>2</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regular_exam/temple_of_doom.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regular_exam/temple_of_doom.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regular_exam/enrollment.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regular_exam/mouse_in_the_kitchen.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
