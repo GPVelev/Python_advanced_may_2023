@@ -17,13 +17,12 @@ for row in range(rows):
         current_row = [el for el in current_row]
     matrix.append(current_row)
 
-
-
 try:
     while True:
         matrix[mouse_coordinates[0]][mouse_coordinates[1]] = "*"
         command = input()
         if command == "danger":
+            matrix[mouse_coordinates[0]][mouse_coordinates[1]] = "M"
             print("Mouse will come back later!")
             break
         elif command == "left":
@@ -41,7 +40,6 @@ try:
                 print(f"Happy mouse! All the cheese is eaten, good night!")
                 break
         elif matrix[mouse_coordinates[0]][mouse_coordinates[1]] == "*":
-            matrix[mouse_coordinates[0]][mouse_coordinates[1]] = "M"
             continue
         elif matrix[mouse_coordinates[0]][mouse_coordinates[1]] == "@":
             continue
