@@ -40,6 +40,7 @@ try:
                 print(f"Happy mouse! All the cheese is eaten, good night!")
                 break
         elif matrix[mouse_coordinates[0]][mouse_coordinates[1]] == "*":
+            matrix[mouse_coordinates[0]][mouse_coordinates[1]] = "M"
             continue
         elif matrix[mouse_coordinates[0]][mouse_coordinates[1]] == "@":
             continue
